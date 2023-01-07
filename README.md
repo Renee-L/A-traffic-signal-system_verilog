@@ -9,4 +9,5 @@
   2　　　　　　　RED　　　　　　GREEN　　　　　　30                 
   3　　　　　　　RED　　　　　　YELLOW　　　　　 5
   
-![image](https://user-images.githubusercontent.com/81012525/211129970-92af0550-62b9-4630-8f90-f8173053b604.png)
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/81012525/211134455-2d9f1eee-fed9-4fdd-a9de-60b7737ac648.png">
+
